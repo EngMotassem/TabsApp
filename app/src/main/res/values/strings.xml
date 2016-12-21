@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Q8directory</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_customer">CustomerActivity</string>
+
+
+
+    <string name="title_activity_category_customers">category_customers</string>
+
+</resources>
